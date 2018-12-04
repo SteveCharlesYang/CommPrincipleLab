@@ -36,3 +36,6 @@ subplot(132);
 plot(ts,(abs(fm_fs)));
 subplot(133);
 plot(ts,20.*log10(abs(fm_fs)/max(abs(fm_fs))));
+
+%% Part 3
+
